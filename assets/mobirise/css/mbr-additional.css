@@ -708,3 +708,47 @@ h6,
 #msg-box2-i .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box2-s .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-s .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box3-t .mbr-section-title,
+#msg-box3-t p {
+  color: #000;
+}
+#form2-u .mbr-section-title {
+  color: #fff;
+}
+#form2-u .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#extFeatures1-y .mbr-section-title {
+  color: #fff;
+}
+#extFeatures3-z .mbr-iconfont-features4 {
+  color: #c0a375 !important;
+}
+#extFeatures3-z .wraper {
+  border-color: #c0a375 !important;
+}
+#extFeatures4-10 .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures4-10 .wraper {
+  border-color: undefined !important;
+}
+#extFeatures5-12 .mbr-iconfont-features4 {
+  color: #e6e6e6 !important;
+}
+#extFeatures5-12 .wraper {
+  border-color: #e6e6e6 !important;
+}
+#extFeatures6-13 .card-img {
+  background-color: #c0a375 !important;
+}
